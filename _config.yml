@@ -1,6 +1,6 @@
 # Site settings
 course_name: Filter Banks and Wavelets
-course_description: "Fundamentals of multirate signal processing (multirate identities, polyphase representations), perfect reconstruction filter banks (general design procedure, paraunitary filter banks), fundamentals of wavelets (discrete wavelet transforms, multiresolution analysis, wavelet bases, sparsity and thresholding methods)."
+course_description: "Fundamentals of multirate signal processing (multirate identities, polyphase representations), perfect reconstruction filter banks (general design procedure, paraunitary filter banks), fundamentals of wavelet analysis (discrete wavelet transforms, multiresolution analysis, wavelet bases, coefficient thresholding and sparsity)."
 course_semester: "Fall 2024"
 
 baseurl: "/251c" # the subpath of your site, e.g. /blog/
