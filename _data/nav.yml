@@ -8,5 +8,5 @@ items:
   icon_class: fas fa-calendar-alt
 
 - url: /materials/
-  name: Materials
+  name: Reference Materials
   icon_class: fas fa-book

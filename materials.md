@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Materials
+title: Reference Materials
 permalink: /materials/
 ---
 
