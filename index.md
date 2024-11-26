@@ -30,7 +30,7 @@ the prerequisite material is covered in ECE 101 and ECE 161A.
 
 ## Course Grade
 
-The course grade will be based on an in-class mideterm **(30%)** and a project
+The course grade will be based on an in-class midterm **(30%)** and a project
 **(70%)**. Homeworks (and solutions) will be handed out periodically, but will
 not be collected. It is suggested that you complete the homework assignments to
 prepare for the midterm.
