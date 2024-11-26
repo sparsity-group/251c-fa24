@@ -1,6 +1,6 @@
 # Site settings
-course_name: "ECE 251C: Filter Banks and Wavelets"
-course_description: "This is a graduate-level course on filter banks and wavelets. This course will cover the fundamentals of multirate signal processing (multirate identities, polyphase representations), perfect-reconstruction filter banks (general design procedure, paraunitary filter banks), and the fundamentals of wavelet analysis (discrete wavelet transforms, multiresolution analysis, wavelet bases, coefficient thresholding, sparsity)."
+course_name: "ECE 251C - Filter Banks and Wavelets"
+course_description: "This is a graduate-level course on filter banks and wavelets. This course covers the fundamentals of multirate signal processing (multirate identities, polyphase representations), perfect-reconstruction filter banks (general design procedure, paraunitary filter banks), and the fundamentals of wavelet analysis (discrete wavelet transforms, multiresolution analyses, wavelet bases, coefficient thresholding, sparsity)."
 course_semester: "Fall 2024"
 
 baseurl: "/251c" # the subpath of your site, e.g. /blog/
