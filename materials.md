@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Reference Materials
+title: Course Materials
 permalink: /materials/
 ---
 
 {% include image.html url="/_images/strang-nguyen.jpg" width=150 align="right" %}
 
-## Book
+# Book
 
 The primary reference will be the book
 
-Wavelets and Filter Banks by Gilbert Strang and Truong Nguyen
+* Wavelets and Filter Banks by Gilbert Strang and Truong Nguyen
 
 The plan is to cover the first 7 chapters.
 
-## Additional Reference Materials
+# Additional Reference Materials
 
 The books
 

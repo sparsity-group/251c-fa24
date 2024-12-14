@@ -32,7 +32,12 @@
     &,
     &:hover {
 	text-decoration: none;
+    }
 }
+
+.site-title a:hover {
+    text-decoration: underline;
+    color: $header-text-color;
 }
 
 .site-header .wrapper {
@@ -176,9 +181,17 @@ z-index:999;
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
+        background-color: $header-color;
+        &:hover {
+            background-color: $background-color;
+            border: 1px solid $grey-color-light;
+            border-radius: 5px;
+            &:hover {
+                path {
+                    fill: $header-color;
+                }
+            }
+        }
         text-align: right;
 
         .menu-icon {
@@ -195,8 +208,8 @@ z-index:999;
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
-                }
+                    fill: $header-text-color;
+                } 
             }
         }
 
@@ -219,6 +232,10 @@ z-index:999;
 
 .schoolname {
     color: $header-text-color;
+    &:hover {
+        text-decoration: underline;
+        color: $header-text-color;
+    }
 }
 
 .coursesemeter {
