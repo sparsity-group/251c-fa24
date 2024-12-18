@@ -16,14 +16,11 @@
 }
 
 .site-title, .site-title a {
-    font-size: 26px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
-    letter-spacing: -1px;
+    font-size: 24px;
     margin-bottom: 0;
     float: left;
-    font-weight: 500;
-		font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+		font-family: Roboto, sans-serif;
     color: $header-text-color;
     &,
     &:visited {
@@ -55,14 +52,13 @@
 	float: right;
 	padding-top: 9px;
 	font-size: 85%;
-	letter-spacing: 1px;
 	line-height: 1em;
-	font-weight: 600;
+	font-weight: 500;
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
 	text-transform: uppercase;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: Roboto, sans-serif;
 
 }
 
@@ -88,7 +84,6 @@
 	display: block;
 	font-weight: normal;
 	height: auto;
-	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
 color: $title-color;

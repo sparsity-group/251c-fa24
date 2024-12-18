@@ -6,8 +6,10 @@
 $header-background-invert: 0%;
 @import "user_vars";
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&display=swap');
+
 // Our variables
-$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+$base-font-family: Roboto, Helvetica, Arial, sans-serif;
 $base-font-size:   .95em;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
