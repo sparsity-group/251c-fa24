@@ -179,7 +179,7 @@ z-index:999;
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
-        right: 30px;
+        right: 15px;
         background-color: $header-color;
         &:hover {
             background-color: $background-color;
