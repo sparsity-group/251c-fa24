@@ -7,14 +7,17 @@ title: Home
 
 **Lectures:** Tuesdays/Thursdays at 09:30 – 10:50 in Jacobs Hall (EBU1), Room 2315
 
-**Instructor:** Rahul Parhi (rahul@ucsd.edu)  
+**Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office Hours:** Fridays at 16:00 - 17:30  
 **Office:** Jacobs Hall, Room 6406
 
-**TA:** Prabhav Gaur (pgaur@ucsd.edu)  
+**TA:** Prabhav Gaur (<pgaur@ucsd.edu>)  
 **Office Hours:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 14:00 - 15:00 in Jacobs Hall, Room 4506  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fridays at 11:00 - 12:00 on Zoom (https://ucsd.zoom.us/j/97267357377)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fridays at 11:00 - 12:00 on Zoom (<https://ucsd.zoom.us/j/97267357377>)  
+
+**Canvas:** <https://canvas.ucsd.edu/courses/60446>  
+**Piazza:** <https://piazza.com/class/m1h2zt7j8si5u3>
 
 # Prerequisites
 
